@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "/images/challenges/challenge1.svg",
+        "text": "Challenge 1",
+        "isLocked":false
+    },
+    {
+        "id": 2,
+        "imgSrc": "/images/challenges/challenge2.svg",
+        "text": "Challenge 2",
+        "isLocked":true
+    },
+    {
+        "id": 3,
+        "imgSrc": "/images/challenges/challenge3.svg",
+        "text": "Challenge 3",
+        "isLocked":true
+    },
+    {
+        "id": 4,
+        "imgSrc": "/images/challenges/challenge4.png",
+        "text": "Challenge 4",
+        "isLocked":true
+    },
+    {
+        "id": 5,
+        "imgSrc": "/images/challenges/challenge5.svg",
+        "text": "Challenge 5",
+        "isLocked":true
+    },
+    {
+        "id": 6,
+        "imgSrc": "/images/challenges/challenge6.svg",
+        "text": "Challenge 6",
+        "isLocked":true
+    }
+]
